@@ -1,0 +1,13 @@
+#root .login-form {
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50% ,-50%);
+  width: 350px;
+}
+#root .login-form-forgot {
+  float: right;
+}
+#root .login-form-button {
+  width: 100%;
+}
